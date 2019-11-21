@@ -1,0 +1,4 @@
+[submodule "JFArnoux/EVAP"]
+	path = JFArnoux/EVAP
+	url = git@github.com:JFArnoux/EVAP.git
+	branch = master
